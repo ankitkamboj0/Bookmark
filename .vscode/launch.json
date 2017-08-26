@@ -1,11 +1,10 @@
 {
     "version": "0.2.0",
-    "configurations": [
-        {
+    "configurations": [{
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost:8080",
+            "url": "http://localhost/myProjects/bookmarker/",
             "webRoot": "${workspaceRoot}"
         },
         {
